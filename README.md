@@ -1,6 +1,6 @@
 # Scaling Up Sparse Support Vector Machine by Simultaneous Feature and Sample Reduction
 ## About
-This is the implementation of "Scaling Up Sparse Support Vector Machine by Simultaneous Feature and Sample Reduction". The code is adapted from [s3fs] (https://github.com/husk214/s3fs).
+This is the implementation of "Scaling Up Sparse Support Vector Machines by Simultaneous Feature and Sample Reduction"(ICML 2017). The code is adapted from [s3fs] (https://github.com/husk214/s3fs).
 
 ## Usage
 ### Compile
